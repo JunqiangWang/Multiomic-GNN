@@ -1,4 +1,4 @@
-# scMultiomic-integration-GNN — Reading List (v2)
+# scMultiomic-integration-GNN — Reading List
 
 An annotated bibliography of **241 papers** on single-cell multi-omic integration with graph neural networks, each with a short critical introduction. Version 2, 10 September 2026.
 
